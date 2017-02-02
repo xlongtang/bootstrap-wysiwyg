@@ -24,10 +24,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "jquery": "~2.1.4",
+    "jquery": "^2.1.4",
     "jquery.hotkeys": "https://github.com/jeresig/jquery.hotkeys.git#master",
-    "fontawesome": "~4.5.0",
-    "bootstrap": "~3.3.5",
+    "fontawesome": "^4.5.0",
+    "bootstrap": "^3.3.5",
     "google-code-prettify": "~1.0.4"
   }
 }
